@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{A1418585-EDDB-43BE-B16C-6D3E021F483A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{C82AD902-7255-4FB8-981F-03689CDA8D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1418585-EDDB-43BE-B16C-6D3E021F483A}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{A1418585-EDDB-43BE-B16C-6D3E021F483A}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{A1418585-EDDB-43BE-B16C-6D3E021F483A}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{A1418585-EDDB-43BE-B16C-6D3E021F483A}.Release|anycpu.Build.0 = Release|Any CPU
+		{C82AD902-7255-4FB8-981F-03689CDA8D24}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{C82AD902-7255-4FB8-981F-03689CDA8D24}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{C82AD902-7255-4FB8-981F-03689CDA8D24}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{C82AD902-7255-4FB8-981F-03689CDA8D24}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 80
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.StandardHeader = $4
+		$0.VersionControlPolicy = $5
+	EndGlobalSection
+EndGlobal
